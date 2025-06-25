@@ -2,8 +2,10 @@
 
 A bioinformatics-driven study to explore potential therapeutic targets in *Klebsiella pneumoniae* ST307, an emerging multidrug-resistant (MDR) clone associated with hospital outbreaks worldwide.
 
+A bioinformatics-driven study to explore potential therapeutic targets in *Klebsiella pneumoniae* ST307, an emerging multidrug-resistant (MDR) clone associated with hospital outbreaks worldwide.
+
 ---
-## 🔍 **Project Workflow**
+## 🧰 **Project Workflow**
 
                +------------------------------+
                |   Download Genome Data       |
@@ -89,9 +91,17 @@ This work lays the foundation for downstream analyses such as druggability predi
 
 ---
 
-## ✉️ **Contact**
+## 📧 **Contact**
 
 For queries or collaborations:  
-**[Your Name]** – [raghava.3324102gmail.com]  
+**[Raghavendra S]** – [raghava.332410@gmail.com]  
 GitHub: [github.com/Raghu-102433]
+
+## ⚙️ Setting Up the Conda Environment
+
+To replicate the analysis environment, use the provided `prokka_env.yml` file:
+
+```bash
+conda env create -f prokka_env.yml
+conda activate prokka_env
 
