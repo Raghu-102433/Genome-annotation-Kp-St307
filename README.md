@@ -60,7 +60,7 @@ A bioinformatics-driven study to explore potential therapeutic targets in *Klebs
                                |
                                v
                +------------------------------+
-               |  Final Target Genes (n = 6)  |
+               |  Final Target Genes (n = 2)  |
                |                              |
                |                              |
                +------------------------------+
@@ -68,7 +68,7 @@ A bioinformatics-driven study to explore potential therapeutic targets in *Klebs
  **Selected Therapeutic Target Candidates**
 
 ```text
-prsA metG pheT guaA arcB smpB
+prsA guaA 
 ```
 
 These genes are involved in key metabolic or stress-related pathways in the pathogen.
