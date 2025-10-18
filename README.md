@@ -1,4 +1,4 @@
-🧬 **Unravelling Klebsiella pneumoniae ST307 Through Genome Annotation and PPI Analysis**
+**Unravelling Klebsiella pneumoniae ST307 Through Genome Annotation and PPI Analysis**
 
 A bioinformatics-driven study to explore potential therapeutic targets in *Klebsiella pneumoniae* ST307, an emerging multidrug-resistant (MDR) clone associated with hospital outbreaks worldwide.
 
